@@ -73,8 +73,8 @@ The trained model and preprocessing objects are stored and loaded during inferen
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/gouravsaini1308/ANN-Classificatoin-Churn
+cd ANN-Classification
 ```
 
 Create a virtual environment:
@@ -233,14 +233,6 @@ Then open the local URL displayed in your terminal.
    - Churn Probability
    - Customer Churn Prediction
 
-## Future Improvements
-
-- Hyperparameter optimization
-- Improved feature engineering
-- Model explainability using SHAP or LIME
-- Docker deployment
-- CI/CD pipeline integration
-- Cloud deployment on AWS or Azure
 
 ## Author
 
